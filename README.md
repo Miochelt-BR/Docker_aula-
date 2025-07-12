@@ -1,4 +1,4 @@
-## Docker_aula-
+# Docker_aula-
 
 Este repositório é um projeto de estudo e prática da aula de Docker.
 
@@ -8,11 +8,11 @@ Aqui você encontrará exemplos e exercícios que estou fazendo para aprender e 
 
 ## Imagem/Foto
 
-Abaixo, você pode inserir uma imagem ilustrativa ou uma foto relacionada à aula, prática ou ambiente de estudo:
+Abaixo, uma imagem ilustrativa relacionada à aula, prática ou ambiente de estudo:
 
-![Minha foto ou imagem da aula](C:\Users\ThiagoDev\Desktop\Repos\Docker_aula-\ChatGPT Image 11 de jul. de 2025, 22_08_13.png)
+![Minha foto ou imagem da aula](./imagem/foto/9dabcc9b-4cd7-4159-9b59-625dd017e08c.png)
 
-
+*Dica:* coloque a imagem dentro da pasta `imagem/foto` no projeto para que o caminho funcione corretamente.
 
 ## Conteúdo
 
